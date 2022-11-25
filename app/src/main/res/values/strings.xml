@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculatrice pids ideal</string>
+    <string name="titre">calcul poid</string>
+    <string name="taille">taille</string>
+    <string name="cm">cm</string>
+    <string name="genre">genre</string>
+    <string name="saisitaille">Tapez votre taille en cm</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+
+</resources>
